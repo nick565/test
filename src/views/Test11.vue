@@ -15,7 +15,7 @@ export default {
   name: 'Home',
   data () {
     return {
-      name: '版本3'
+      name: '版本13'
     }
   },
   components: {
