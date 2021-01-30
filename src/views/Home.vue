@@ -15,7 +15,7 @@ export default {
   name: 'Home',
   data () {
     return {
-      name: 'sfewww'
+      name: 'fefer'
     }
   },
   components: {
